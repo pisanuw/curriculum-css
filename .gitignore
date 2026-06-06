@@ -1,0 +1,6 @@
+
+# Ignore the sources directory
+sources/
+
+# Ignore pdfs from md files
+*.pdf
