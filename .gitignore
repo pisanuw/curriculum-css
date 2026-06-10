@@ -4,3 +4,8 @@ sources/
 
 # Ignore pdfs from md files
 *.pdf
+
+# OS cruft
+.DS_Store
+Thumbs.db
+*.swp
